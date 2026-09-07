@@ -1,14 +1,19 @@
 {
   "news": [
     {
-      "title": "التحديث الجديد متاح الآن!",
-      "details": "تم إضافة بوابات ومراحل جديدة كلياً، استمتع باللعب مع أصدقائك عبر الشبكة.",
+      "title": "NewGame!",
+      "details": "Completely new portals and stages have been added, enjoy playing with your friends over the network.",
       "imageUrl": "https://i.imgur.com/example1.jpg"
     },
     {
-      "title": "صيانة دورية",
-      "details": "شكراً لانضمامكم إلينا. سنقوم بتحسين السيرفرات لتقديم أفضل أداء.",
+      "title": "Regular maintenance",
+      "details": "Thank you for joining us. We will improve servers to provide the best performance.",
       "imageUrl": "https://i.imgur.com/example2.jpg"
+    },
+{
+       "title": "Online",
+        "details": "Coming Soon!",
+        "imageUrl": "https://pdftolink.io/file/r2_dXNlcnMvZ3Vlc3QvZTM0NDg1N2UtMWQ2Yy00Njc3LTk1ZmItMjE1YTM4NTcwYzk3LnBuZw"
     }
   ]
 }
